@@ -50,6 +50,7 @@ class MyArrayNew {
                 array[z]=random;
             }
            }
+        //выводим текущий массив, и сортируем его значения по возрастанию
         for (int t = 0; t < x; t++) {
             System.out.print(array[t] +"-" );
         }
